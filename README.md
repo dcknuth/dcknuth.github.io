@@ -1,4 +1,4 @@
-# David Knuth GetHub Overview
+# David Knuth GitHub Overview
 Quick explanation of what is in my repositories
 
 ## Python Data Science
