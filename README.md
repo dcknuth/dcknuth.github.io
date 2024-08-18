@@ -13,6 +13,7 @@ Quick explanation of what is in my repositories
 
 ## Python
 * [Aquaq Challanges](https://github.com/dcknuth/aquaq_challange/) A set of coding puzzles from [here](https://challenges.aquaq.co.uk/)
+* [Teach Yourself Python](https://github.com/dcknuth/teach_yourself_python/)
 * [Numba_exp](https://github.com/dcknuth/numba_exp/) Trying Numba on day 16 from Advent of Code
 * [Advent of Code 2023](https://github.com/dcknuth/aoc_2023/) My solutions to AOC 2023
 * [Advent of Code 2020](https://github.com/dcknuth/AoC_2020/) Back to AOC 2020 as warm-up for 2023
