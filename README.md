@@ -12,7 +12,7 @@ Quick explanation of what is in my repositories
 * [Other SDR](https://github.com/dcknuth/more_sdr/) A collection of other things that needed a software defined radio. Mostly, what is transmitting near the house and tracking weather balloons
 
 ## Python
-* [Aquaq Challanges](https://github.com/dcknuth/aquaq_challange/) A set of coding puzzles from [here](https://challenges.aquaq.co.uk/)
+* [Aquaq Challenges](https://github.com/dcknuth/aquaq_challenge/) A set of coding puzzles from [here](https://challenges.aquaq.co.uk/)
 * [Teach Yourself Python](https://github.com/dcknuth/teach_yourself_python/) A class to learn Python
 * [Numba_exp](https://github.com/dcknuth/numba_exp/) Trying Numba on day 16 from Advent of Code
 * [Advent of Code 2023](https://github.com/dcknuth/aoc_2023/) My solutions to AOC 2023
@@ -26,3 +26,5 @@ Quick explanation of what is in my repositories
 ## SQL
 * [Trying Postgres](https://github.com/dcknuth/trying_postgres/) Refreshing DB/SQL skills by working through the documentation of a, currently, very popular database
 
+## Other Items to Remember
+* [Backup an iPhone to a PC](https://github.com/dcknuth/iphone_backup/) How to backup an iPhone's pictures to a PC (without the compatibility switches)
