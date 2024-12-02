@@ -1,6 +1,9 @@
 # David Knuth GitHub Overview
 Quick explanation of what is in my repositories
 
+## Embedded
+* [Pip-Boy Replica](https://github.com/dcknuth/pip_boy_replica) Created for a Halloween Costume
+
 ## Python Data Science
 * [Python Data Science Handbook](https://github.com/dcknuth/data_science_handbook/) A book review of Python Data Science Handbook by Jake VanderPlas
 * [Air Quality Exploration](https://github.com/dcknuth/air_quality_exp/) A look at the data available for air quality in the U.S. Uses Pandas with Bakersfield, CA, San Jose, CA and St. Paul, MN as example cities
@@ -12,6 +15,7 @@ Quick explanation of what is in my repositories
 * [Other SDR](https://github.com/dcknuth/more_sdr/) A collection of other things that needed a software defined radio. Mostly, what is transmitting near the house and tracking weather balloons
 
 ## Python
+* [Advent of Code 2024](https://github.com/dcknuth/aoc2024) My solutions to AoC 2024
 * [Aquaq Challenges](https://github.com/dcknuth/aquaq_challenge/) A set of coding puzzles from [here](https://challenges.aquaq.co.uk/)
 * [Teach Yourself Python](https://github.com/dcknuth/teach_yourself_python/) A class to learn Python
 * [Numba_exp](https://github.com/dcknuth/numba_exp/) Trying Numba on day 16 from Advent of Code
