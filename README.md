@@ -3,6 +3,7 @@ Quick explanation of what is in my repositories
 
 ## Embedded
 * [Pip-Boy Replica](https://github.com/dcknuth/pip_boy_replica) Created for a Halloween Costume
+* [Fake Fire](https://github.com/dcknuth/fake_fire) A fake fire to go in the fireplace
 
 ## Python Data Science
 * [Python Data Science Handbook](https://github.com/dcknuth/data_science_handbook/) A book review of Python Data Science Handbook by Jake VanderPlas
@@ -30,5 +31,6 @@ Quick explanation of what is in my repositories
 ## SQL
 * [Trying Postgres](https://github.com/dcknuth/trying_postgres/) Refreshing DB/SQL skills by working through the documentation of a, currently, very popular database
 
-## Other Items to Remember
+## Other Items
 * [Backup an iPhone to a PC](https://github.com/dcknuth/iphone_backup/) How to backup an iPhone's pictures to a PC (without the compatibility switches)
+* [Building a fog cannon](https://github.com/dcknuth/fog_cannon) Hand-held fog cannon from vap pens
