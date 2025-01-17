@@ -5,6 +5,7 @@ Quick explanation of what is in my repositories
 * [Pip-Boy Replica](https://github.com/dcknuth/pip_boy_replica) Created for a Halloween Costume
 * [Fake Fire](https://github.com/dcknuth/fake_fire) A fake fire to go in the fireplace
 * [Halloween Mobile](https://github.com/dcknuth/halloween_mobile) Motion detection activated mobile with some extras
+* [Smart Dress](https://github.com/dcknuth/smart_dress) A skirt that lights up in neat ways
 
 ## Python Data Science
 * [Python Data Science Handbook](https://github.com/dcknuth/data_science_handbook/) A book review of Python Data Science Handbook by Jake VanderPlas
