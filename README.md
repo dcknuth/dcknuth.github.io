@@ -24,6 +24,7 @@ Quick explanation of what is in my repositories
 * [Numba_exp](https://github.com/dcknuth/numba_exp/) Trying Numba on day 16 from Advent of Code
 * [Advent of Code 2023](https://github.com/dcknuth/aoc_2023/) My solutions to AOC 2023
 * [Advent of Code 2020](https://github.com/dcknuth/AoC_2020/) Back to AOC 2020 as warm-up for 2023
+* [Parallel Python](https://github.com/dcknuth/parallel_python) Some examples of running sub processes and parallelizing Python
 * [RawTherapee Side Car Files](https://github.com/dcknuth/python_rawtherapee/) Use Python to adjust exposure settings to a set of camera RAW files
 * [Algebra Solver](https://github.com/dcknuth/Algebra_solver/) A simple Jupiter notebook so my son could check his algebra homework (he really never used it)
 
