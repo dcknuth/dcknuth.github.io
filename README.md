@@ -18,6 +18,7 @@ Quick explanation of what is in my repositories
 * [Other SDR](https://github.com/dcknuth/more_sdr/) A collection of other things that needed a software defined radio. Mostly, what is transmitting near the house and tracking weather balloons
 
 ## Python
+* [Automated Monthly Schedule Maker](https://github.com/dcknuth/scheduler) The monthly rotation scheduler my wife asked me to make. Cleaned up a bit for public release
 * [Advent of Code 2024](https://github.com/dcknuth/aoc2024) My solutions to AoC 2024
 * [Aquaq Challenges](https://github.com/dcknuth/aquaq_challenge/) A set of coding puzzles from [here](https://challenges.aquaq.co.uk/)
 * [Teach Yourself Python](https://github.com/dcknuth/teach_yourself_python/) A class to learn Python
