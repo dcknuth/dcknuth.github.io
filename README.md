@@ -31,6 +31,7 @@ Quick explanation of what is in my repositories
 * [Algebra Solver](https://github.com/dcknuth/Algebra_solver/) A simple Jupiter notebook so my son could check his algebra homework (he really never used it)
 
 ## 3D Printing
+* [Using Blender for 3D Modeling](https://github.com/dcknuth/learn_blender_3dm/) Notes as I try to bring my capability of 3D print model design with Blender towards my OpenSCAD level
 * [Valence Clip](https://github.com/dcknuth/valance_clip/) A clip to hold the horizontal blind mechanism cover in place after I broke one
 
 ## SQL
