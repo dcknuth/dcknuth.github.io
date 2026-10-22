@@ -46,6 +46,8 @@ Quick explanation of what is in my repositories
 * [Trying Postgres](https://github.com/dcknuth/trying_postgres/) Refreshing DB/SQL skills by working through the documentation of a, currently, very popular database
 
 ## Other Items
+* [Rock Hounding](https://github.com/dcknuth/rock_hounding) Looking for some rocks to use in the small tumbler that I have. Focused mainly on sites in California
+* [Metal Detecting](https://github.com/dcknuth/metal_detecting) Notes about learning this space. Spoiler, mostly ends up as beach and park clean up
 * [Learning Rust](https://github.com/dcknuth/rust_learning) Learning Rust using the first 10 days from the Advent of Code
 * [Bench Power Supply from PC Supply](https://github.com/dcknuth/pc2bench_power) Creating a bench, DC power supply from an old PC power supply
 * [Backup an iPhone to a PC](https://github.com/dcknuth/iphone_backup/) How to backup an iPhone's pictures to a PC (without the compatibility switches)
